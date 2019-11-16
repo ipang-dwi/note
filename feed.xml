@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>note</title>
+    <link href="https://ipang-dwi.github.io/note/feed.xml" rel="self" />
+    <link href="https://ipang-dwi.github.io/note" />
+    <updated>1970-01-01T07:00:00+07:00</updated>
+    <author>
+        <name>ipang-dwi</name>
+    </author>
+    <id>https://ipang-dwi.github.io/note</id>
+
+</feed>

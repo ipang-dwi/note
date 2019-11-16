@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "note",
+    "description": "",
+    "home_page_url": "https://ipang-dwi.github.io/note",
+    "feed_url": "https://ipang-dwi.github.io/note/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ipang-dwi"
+    },
+    "items": [
+    ]
+}
